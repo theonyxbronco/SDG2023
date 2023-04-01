@@ -1,2 +1,3 @@
 # SDG2023
-Mandatory Repository
+We don't have any code :(...
+Just a mandatory repository for the hackathon.
